@@ -1,0 +1,14 @@
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.AssemblyInfoInputs.cache
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.AssemblyInfo.cs
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.csproj.CoreCompileInputs.cache
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\bin\Debug\net8.0\Dicegame22.exe
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\bin\Debug\net8.0\Dicegame22.deps.json
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\bin\Debug\net8.0\Dicegame22.runtimeconfig.json
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\bin\Debug\net8.0\Dicegame22.dll
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\bin\Debug\net8.0\Dicegame22.pdb
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.dll
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\refint\Dicegame22.dll
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.pdb
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\Dicegame22.genruntimeconfig.cache
+C:\Users\elliot.jordan\Documents\Code\Dicegame22\Dicegame22\obj\Debug\net8.0\ref\Dicegame22.dll
