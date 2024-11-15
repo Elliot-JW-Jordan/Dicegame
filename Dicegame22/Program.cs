@@ -14,7 +14,7 @@
             Console.WriteLine("Vil du påbörja spelet");
 
 
-
+            gytdkutkt
 
 
             while (true)

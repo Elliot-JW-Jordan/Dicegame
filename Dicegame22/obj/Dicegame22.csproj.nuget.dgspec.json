@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elliot.jordan\\Documents\\Code\\Dicegame22\\Dicegame22\\Dicegame22.csproj": {}
+    "C:\\Users\\elliot.jordan\\Documents\\GitHub\\Dicegame\\Dicegame22\\Dicegame22.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elliot.jordan\\Documents\\Code\\Dicegame22\\Dicegame22\\Dicegame22.csproj": {
+    "C:\\Users\\elliot.jordan\\Documents\\GitHub\\Dicegame\\Dicegame22\\Dicegame22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elliot.jordan\\Documents\\Code\\Dicegame22\\Dicegame22\\Dicegame22.csproj",
+        "projectUniqueName": "C:\\Users\\elliot.jordan\\Documents\\GitHub\\Dicegame\\Dicegame22\\Dicegame22.csproj",
         "projectName": "Dicegame22",
-        "projectPath": "C:\\Users\\elliot.jordan\\Documents\\Code\\Dicegame22\\Dicegame22\\Dicegame22.csproj",
+        "projectPath": "C:\\Users\\elliot.jordan\\Documents\\GitHub\\Dicegame\\Dicegame22\\Dicegame22.csproj",
         "packagesPath": "C:\\Users\\elliot.jordan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elliot.jordan\\Documents\\Code\\Dicegame22\\Dicegame22\\obj\\",
+        "outputPath": "C:\\Users\\elliot.jordan\\Documents\\GitHub\\Dicegame\\Dicegame22\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
